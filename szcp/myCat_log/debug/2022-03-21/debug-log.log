@@ -1,0 +1,10 @@
+[DEBUG] 07:03:38.484 [SpringContextShutdownHook] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@70efb718, started on Sun Mar 20 20:49:25 CST 2022
+[DEBUG] 07:03:38.490 [SpringContextShutdownHook] o.s.c.e.PropertySourcesPropertyResolver - Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+[DEBUG] 07:03:38.492 [SpringContextShutdownHook] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+[DEBUG] 07:03:38.493 [SpringContextShutdownHook] o.s.c.s.DefaultLifecycleProcessor - Bean 'documentationPluginsBootstrapper' completed its stop procedure
+[DEBUG] 07:03:38.494 [SpringContextShutdownHook] o.s.d.r.l.RedisMessageListenerContainer - Stopped RedisMessageListenerContainer
+[DEBUG] 07:03:38.495 [SpringContextShutdownHook] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+[DEBUG] 07:03:38.495 [SpringContextShutdownHook] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans
+[DEBUG] 07:03:38.498 [SpringContextShutdownHook] io.lettuce.core.RedisClient - Initiate shutdown (100, 100, MILLISECONDS)
+[DEBUG] 07:03:38.508 [SpringContextShutdownHook] i.l.c.r.DefaultClientResources - Initiate shutdown (0, 2, SECONDS)
+[DEBUG] 07:03:38.509 [SpringContextShutdownHook] i.l.c.r.DefaultEventLoopGroupProvider - Initiate shutdown (0, 2, SECONDS)

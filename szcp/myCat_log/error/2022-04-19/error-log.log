@@ -1,0 +1,310 @@
+[ERROR] 00:32:10.792 [http-nio-7090-exec-8] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:37:14.077 [http-nio-7090-exec-6] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:37:20.443 [http-nio-7090-exec-10] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:37:50.833 [http-nio-7090-exec-2] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:42:38.281 [http-nio-7090-exec-7] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:42:46.133 [http-nio-7090-exec-8] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:42:57.897 [http-nio-7090-exec-6] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:43:27.255 [http-nio-7090-exec-10] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:43:38.999 [http-nio-7090-exec-2] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:43:48.120 [http-nio-7090-exec-1] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:43:54.307 [http-nio-7090-exec-3] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:44:05.005 [http-nio-7090-exec-4] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:44:11.522 [http-nio-7090-exec-5] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:44:44.586 [http-nio-7090-exec-7] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:45:32.978 [http-nio-7090-exec-6] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:45:42.747 [http-nio-7090-exec-10] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:45:48.375 [http-nio-7090-exec-2] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:45:58.856 [http-nio-7090-exec-1] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:46:26.872 [http-nio-7090-exec-5] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:46:35.570 [http-nio-7090-exec-9] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:47:00.367 [http-nio-7090-exec-7] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:48:57.867 [http-nio-7090-exec-5] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:50:45.329 [http-nio-7090-exec-10] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:50:56.496 [http-nio-7090-exec-5] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:51:34.174 [http-nio-7090-exec-9] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:51:36.840 [http-nio-7090-exec-7] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:51:44.834 [http-nio-7090-exec-8] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:53:37.702 [http-nio-7090-exec-1] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:55:15.870 [http-nio-7090-exec-2] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:55:30.284 [http-nio-7090-exec-9] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 00:57:10.690 [http-nio-7090-exec-8] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 01:00:10.519 [http-nio-7090-exec-8] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 01:01:24.023 [http-nio-7090-exec-10] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 01:09:32.635 [http-nio-7090-exec-9] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 01:09:37.352 [http-nio-7090-exec-7] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 01:10:01.367 [http-nio-7090-exec-1] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 07:44:40.890 [http-nio-7090-exec-10] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 07:48:32.771 [http-nio-7090-exec-1] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 07:48:38.924 [http-nio-7090-exec-3] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:16:42.174 [http-nio-7090-exec-7] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:17:34.976 [http-nio-7090-exec-3] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:18:35.766 [http-nio-7090-exec-8] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:20:46.278 [http-nio-7090-exec-9] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:26:36.892 [http-nio-7090-exec-3] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:26:42.790 [http-nio-7090-exec-4] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:26:53.308 [http-nio-7090-exec-5] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:27:03.981 [http-nio-7090-exec-9] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:28:10.716 [http-nio-7090-exec-6] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:29:44.007 [http-nio-7090-exec-9] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:44.933 [http-nio-7090-exec-7] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:45.229 [http-nio-7090-exec-8] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:45.460 [http-nio-7090-exec-6] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:45.626 [http-nio-7090-exec-10] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:45.815 [http-nio-7090-exec-2] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:46.001 [http-nio-7090-exec-1] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:46.159 [http-nio-7090-exec-3] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:46.330 [http-nio-7090-exec-4] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:46.493 [http-nio-7090-exec-5] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:46.683 [http-nio-7090-exec-9] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:46.899 [http-nio-7090-exec-7] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:47.099 [http-nio-7090-exec-8] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:47.289 [http-nio-7090-exec-6] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:47.455 [http-nio-7090-exec-10] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:47.651 [http-nio-7090-exec-2] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:47.846 [http-nio-7090-exec-1] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:48.041 [http-nio-7090-exec-3] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:48.239 [http-nio-7090-exec-4] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:48.439 [http-nio-7090-exec-5] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:48.628 [http-nio-7090-exec-9] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:48.833 [http-nio-7090-exec-7] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:49.037 [http-nio-7090-exec-8] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:49.273 [http-nio-7090-exec-6] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:49.476 [http-nio-7090-exec-10] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:49.665 [http-nio-7090-exec-2] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:49.899 [http-nio-7090-exec-1] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:50.082 [http-nio-7090-exec-3] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:29:50.366 [http-nio-7090-exec-4] c.y.s.c.RecruitmentInformationController - 添加错误: 
+### Error updating database.  Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+### The error may involve com.yys.szcp.mapper.DbRecruitmentInformationMapper.addRecruitmentInformation-Inline
+### The error occurred while setting parameters
+### SQL: insert into db_recruitment_information(post_name,post_annual_salary,post_type,post_education,post_profile,company_address,                                                company_region,company_name,company_profile,company_mailbox, create_time, update_time,create_user_id)         values (?, ?, ?, ?, ?, ?,                 ?, ?, ?,?, now(), now(),?);
+### Cause: java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+; uncategorized SQLException; SQL state [HY000]; error code [1366]; Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1; nested exception is java.sql.SQLException: Incorrect string value: '\xF0\x9F\xA7\xB9\x0A9...' for column 'post_profile' at row 1
+[ERROR] 08:30:51.802 [http-nio-7090-exec-9] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:33:49.737 [http-nio-7090-exec-6] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:35:03.707 [http-nio-7090-exec-4] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:39:16.467 [http-nio-7090-exec-2] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:41:15.803 [http-nio-7090-exec-3] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:41:48.737 [http-nio-7090-exec-1] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:42:19.521 [http-nio-7090-exec-7] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:42:56.155 [http-nio-7090-exec-7] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:42:58.277 [http-nio-7090-exec-8] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:42:59.185 [http-nio-7090-exec-6] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:43:24.895 [http-nio-7090-exec-1] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:43:32.050 [http-nio-7090-exec-3] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:43:59.159 [http-nio-7090-exec-2] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:44:51.089 [http-nio-7090-exec-6] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:55:29.971 [http-nio-7090-exec-7] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 08:58:11.431 [http-nio-7090-exec-2] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:01:10.019 [http-nio-7090-exec-5] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:08:15.479 [http-nio-7090-exec-2] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:09:51.683 [http-nio-7090-exec-4] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:10:14.951 [http-nio-7090-exec-5] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:12:10.934 [http-nio-7090-exec-5] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:15:08.539 [http-nio-7090-exec-4] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:15:22.996 [http-nio-7090-exec-6] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:15:37.986 [http-nio-7090-exec-8] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:16:09.721 [http-nio-7090-exec-5] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:16:42.849 [http-nio-7090-exec-3] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:17:52.486 [http-nio-7090-exec-4] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:22:25.007 [http-nio-7090-exec-10] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:24:36.304 [http-nio-7090-exec-7] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:25:06.389 [http-nio-7090-exec-1] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:26:21.107 [http-nio-7090-exec-9] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:28:43.658 [http-nio-7090-exec-9] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:28:51.649 [http-nio-7090-exec-6] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:29:40.837 [http-nio-7090-exec-3] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:30:04.354 [http-nio-7090-exec-8] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:30:26.031 [http-nio-7090-exec-7] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:31:12.257 [http-nio-7090-exec-4] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:31:45.174 [http-nio-7090-exec-4] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 09:33:11.744 [http-nio-7090-exec-5] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 10:00:20.742 [http-nio-7090-exec-2] c.y.szcp.controller.AdminController - 输出error级别的日志.....
+[ERROR] 20:44:48.229 [http-nio-7090-exec-4] c.y.szcp.controller.AdminController - 输出error级别的日志.....

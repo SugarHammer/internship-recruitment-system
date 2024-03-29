@@ -1,0 +1,72 @@
+[INFO ] 17:40:47.160 [main] com.yys.szcp.SzcpApplication - Starting SzcpApplication on PC-202307121658 with PID 18824 (D:\Company\Hammer\New\RecruitmentSystem\szcp\target\classes started by Administrator in D:\Company\Hammer\New\RecruitmentSystem\szcp)
+[INFO ] 17:40:47.160 [main] com.yys.szcp.SzcpApplication - The following profiles are active: dev
+[INFO ] 17:40:47.626 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+[INFO ] 17:40:47.627 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[INFO ] 17:40:47.646 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5ms. Found 0 Redis repository interfaces.
+[INFO ] 17:40:47.793 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 17:40:47.924 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7090 (http)
+[INFO ] 17:40:47.928 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7090"]
+[INFO ] 17:40:47.928 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:40:47.928 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+[INFO ] 17:40:47.970 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:40:47.970 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 790 ms
+[INFO ] 17:40:47.990 [main] o.s.b.web.servlet.RegistrationBean - Servlet statViewServlet was not registered (possibly already registered?)
+[INFO ] 17:40:47.991 [main] o.s.b.web.servlet.RegistrationBean - Filter webStatFilter was not registered (possibly already registered?)
+[INFO ] 17:40:48.194 [main] c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+[INFO ] 17:40:48.444 [main] s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[INFO ] 17:40:48.640 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 17:40:48.827 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 17:40:48.849 [main] s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+[INFO ] 17:40:48.858 [main] s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+[INFO ] 17:40:48.876 [main] s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+[INFO ] 17:40:49.008 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7090"]
+[INFO ] 17:40:49.019 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 7090 (http) with context path ''
+[INFO ] 17:40:49.020 [main] com.yys.szcp.SzcpApplication - Started SzcpApplication in 2.07 seconds (JVM running for 2.518)
+[INFO ] 17:40:53.732 [http-nio-7090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 17:40:53.732 [http-nio-7090-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 17:40:53.736 [http-nio-7090-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+[INFO ] 17:40:53.747 [http-nio-7090-exec-1] c.yys.szcp.config.jwt.JwtInterceptor - 访问路径:/sys/admin/findAdminUserInfo
+[INFO ] 17:40:53.749 [http-nio-7090-exec-1] c.yys.szcp.config.jwt.JwtInterceptor - ===== 用户未登录, 请先登录:/sys/admin/findAdminUserInfo
+[INFO ] 17:40:53.784 [http-nio-7090-exec-2] c.yys.szcp.config.jwt.JwtInterceptor - 访问路径:/sys/admin/findAdminUserInfo
+[INFO ] 17:41:52.167 [http-nio-7090-exec-5] c.yys.szcp.config.jwt.JwtInterceptor - 访问路径:/sys/admin/login
+[INFO ] 17:41:52.167 [http-nio-7090-exec-5] c.yys.szcp.config.jwt.JwtInterceptor - ===== 用户未登录, 请先登录:/sys/admin/login
+[INFO ] 17:41:52.169 [http-nio-7090-exec-6] c.yys.szcp.config.jwt.JwtInterceptor - 访问路径:/sys/admin/login
+[INFO ] 17:41:52.182 [http-nio-7090-exec-6] c.y.szcp.controller.AdminController - 输出info级别的日志.....
+[INFO ] 17:41:52.632 [http-nio-7090-exec-7] c.yys.szcp.config.jwt.JwtInterceptor - 访问路径:/sys/admin/findAdminUserInfo
+[INFO ] 17:41:52.632 [http-nio-7090-exec-7] c.yys.szcp.config.jwt.JwtInterceptor - ===== 用户未登录, 请先登录:/sys/admin/findAdminUserInfo
+[INFO ] 17:41:52.634 [http-nio-7090-exec-8] c.yys.szcp.config.jwt.JwtInterceptor - 访问路径:/sys/admin/findAdminUserInfo
+[INFO ] 17:41:55.421 [http-nio-7090-exec-1] c.yys.szcp.config.jwt.JwtInterceptor - 访问路径:/sys/admin/login
+[INFO ] 17:41:55.421 [http-nio-7090-exec-1] c.y.szcp.controller.AdminController - 输出info级别的日志.....
+[INFO ] 17:41:55.431 [http-nio-7090-exec-2] c.yys.szcp.config.jwt.JwtInterceptor - 访问路径:/sys/admin/findAdminUserInfo
+[INFO ] 17:41:55.431 [http-nio-7090-exec-2] c.yys.szcp.config.jwt.JwtInterceptor - ===== 用户未登录, 请先登录:/sys/admin/findAdminUserInfo
+[INFO ] 17:41:55.435 [http-nio-7090-exec-3] c.yys.szcp.config.jwt.JwtInterceptor - 访问路径:/sys/admin/findAdminUserInfo
+[INFO ] 17:43:40.019 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+[INFO ] 17:43:40.019 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 17:43:40.039 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+[INFO ] 17:43:43.451 [main] com.yys.szcp.SzcpApplication - Starting SzcpApplication on PC-202307121658 with PID 22576 (D:\Company\Hammer\New\RecruitmentSystem\szcp\target\classes started by Administrator in D:\Company\Hammer\New\RecruitmentSystem\szcp)
+[INFO ] 17:43:43.451 [main] com.yys.szcp.SzcpApplication - The following profiles are active: dev
+[INFO ] 17:43:43.898 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+[INFO ] 17:43:43.900 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[INFO ] 17:43:43.917 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+[INFO ] 17:43:44.105 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 17:43:44.229 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7090 (http)
+[INFO ] 17:43:44.233 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7090"]
+[INFO ] 17:43:44.233 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:43:44.233 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+[INFO ] 17:43:44.275 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:43:44.275 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 803 ms
+[INFO ] 17:43:44.297 [main] o.s.b.web.servlet.RegistrationBean - Servlet statViewServlet was not registered (possibly already registered?)
+[INFO ] 17:43:44.299 [main] o.s.b.web.servlet.RegistrationBean - Filter webStatFilter was not registered (possibly already registered?)
+[INFO ] 17:43:44.469 [main] c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+[INFO ] 17:43:44.709 [main] s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[INFO ] 17:43:44.880 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 17:43:45.002 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 17:43:45.023 [main] s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+[INFO ] 17:43:45.032 [main] s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+[INFO ] 17:43:45.049 [main] s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+[INFO ] 17:43:45.170 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7090"]
+[INFO ] 17:43:45.182 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 7090 (http) with context path ''
+[INFO ] 17:43:45.183 [main] com.yys.szcp.SzcpApplication - Started SzcpApplication in 1.913 seconds (JVM running for 2.324)
+[INFO ] 17:43:49.113 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+[INFO ] 17:43:49.114 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 17:43:49.148 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed

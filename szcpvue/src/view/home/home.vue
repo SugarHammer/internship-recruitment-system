@@ -2,7 +2,7 @@
   <div>
     <div style="min-width:1000px">
       <div class="welcom_text">
-        <strong>欢迎来到Valve公司实习招聘系统</strong>
+        <strong>欢迎来到公司实习招聘系统</strong>
       </div>
     <!-- <Row :gutter="20">
       <i-col :xs="12" :md="8" :lg="4" v-for="(infor, i) in inforCardData" :key="`infor-${i}`" style="height: 120px;padding-bottom: 10px;">

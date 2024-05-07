@@ -43,8 +43,8 @@ import Language from './components/language'
 import { mapMutations, mapActions, mapGetters } from 'vuex'
 import { getNewTagList, routeEqual } from '@/libs/util'
 import routers from '@/router/routers'
-import minLogo from '@/assets/images/logo-min.png'
-import maxLogo from '@/assets/images/logo.png'
+import minLogo from '@/assets/images/lolo2.png'
+import maxLogo from '@/assets/images/lolo.png'
 import './main.less'
 export default {
   name: 'Main',

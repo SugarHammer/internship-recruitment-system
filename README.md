@@ -1,4 +1,4 @@
-# 公司实习招聘系统(数据库加VX获取☟)
+# 公司实习招聘系统(文末免费领取☟)
 
 #### 介绍
 公司实习招聘系统（springboot+vue）
@@ -35,8 +35,8 @@ Java + SpringBoot + Mybatis + Vue + Mysql
 - idea/eclipse、jdk-1.8、maven-3.8.6、mysql、node.js
 
 
-## 有项目修改、安装调试需求 请联系微信
-![输入图片说明](photo/0-WeChat.png)
+## 有项目修改、安装调试需求 请联系以下
+![关注免费领](联系.png)
 
-## 其他项目定制加微☝☝☝
+## 获取资源扫☝☝☝
 
